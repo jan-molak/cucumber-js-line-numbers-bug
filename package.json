@@ -1,0 +1,23 @@
+{
+  "name": "cucumber-js-line-numbers-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-molak/cucumber-js-line-numbers-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-molak/cucumber-js-line-numbers-bug/issues"
+  },
+  "homepage": "https://github.com/jan-molak/cucumber-js-line-numbers-bug#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2",
+    "@cucumber/pretty-formatter": "^1.0.0-alpha.1"
+  }
+}
